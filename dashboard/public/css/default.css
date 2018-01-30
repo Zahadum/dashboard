@@ -1,0 +1,11 @@
+.dt-button embed {
+    outline: none;
+}
+
+div.dt-buttons {
+    position: relative;
+    float: left;
+}
+div.dt-buttons.buttons-right {
+    float: right;
+}

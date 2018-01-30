@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="Link Tracking">
+    <serverData>
+      <paths name="Link Tracking">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="read" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/dashboard/vendor" />
+            <excludedPath path="/dashboard2" />
+            <excludedPath path="/dashboard/bootstrap" />
+            <excludedPath path="/dashboard/public" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="UW Webserver">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="uwgv.ca">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

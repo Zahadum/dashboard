@@ -1,0 +1,9 @@
+dashboard/vendor
+dashboard/node_modules
+dashboard/public/storage
+dashboard/Homestead.yaml
+dashboard/Homestead.json
+dashboard/public/bower_components
+dashboard/public/admin-lte/bower_components
+dashboard/.env
+includes/config/config.ini
